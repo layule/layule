@@ -12,7 +12,7 @@
     <h3>🛠 Tech Stack</h3>
     <ul>
       <li>💻 HTML5 | CSS3 | jQuery </li>
-      <li>⚙️ React | Javascript</li>
+      <li>⚙️ React | Javascript | Python</li>
       <li>🎨 Adobe Photoshop | Adobe Illustrator | Adobe Premiere | Adobe After Effect | Figma</li>
     </ul>
 
