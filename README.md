@@ -3,11 +3,6 @@
     <ul>
       <li>🐤 Frontend Developer</li>
       <li>🌱 I’m interested in Javascript, ReactJS, and React Native.</li>
-      <li>
-       <a
-          href="https://layul.notion.site/La-Yul-Kim-2aefc87c59b345599a27bf877047425c"
-        >📕 Notion</a>
-      </li>
     </ul>
     <h3>🛠 Tech Stack</h3>
     <ul>
